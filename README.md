@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on:<br>Web development projects using HTML, CSS, JavaScript, Node.js,
-React, MongoDB, Express and also working on my problem solving using Data Structures and Algorithms.<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly open-source projects, academic projects, and web applications.<br><br>🤝 I’m looking for help with:<br>Advanced JavaScript, backend development, and real-world project structuring.<br><br>🌱 I’m currently learning:<br>Full-stack development, APIs, databases, and problem-solving techniques.<br><br>💬 Ask me about:<br>Web development basics, C programming, JavaScript, and computer science fundamentals.<br><br>⚡ Fun fact:<br>I enjoy learning new tech skills and turning simple ideas into working projects.
+React, MongoDB, Express and also working on my problem solving using Data Structures and Algorithms.<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly open-source projects, academic projects, and web applications.<br><br>🤝 I’m looking for help with:<br>Advanced JavaScript, backend development, and real-world project structuring.<br><br>🌱 I’m currently learning:<br>Full-stack development, APIs, databases, and problem-solving techniques.<br><br>💬 Ask me about:<br>Web development basics, C programming, JavaScript, MERN Stack, DSA and computer science fundamentals.<br><br>⚡ Fun fact:<br>I enjoy learning new tech skills and turning simple ideas into working projects.
 
 
 # 💻 Tech Stack:
